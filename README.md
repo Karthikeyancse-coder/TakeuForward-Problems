@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated banner: typing SVG as the full title banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=800&color=F7A81B&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%9A%80+Striver's+SDE+Sheet;191+Problems+%7C+Python+%7C+Daily+Grind" alt="Banner"/>
+<!-- Animated banner: gradient background box with fade-in text -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=220&section=header&text=Striver's%20SDE%20Sheet%20%F0%9F%9A%80&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=191%20Problems%20%7C%20Daily%20DSA%20Grind%20%7C%20Python&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/Karthikeyancse-coder">

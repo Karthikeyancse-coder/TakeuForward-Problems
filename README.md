@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Animated header banner (twinkling stars background) -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&animation=twinkling" width="100%"/>
-
-<!-- Typing animation title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7A81B&center=true&vCenter=true&width=700&height=60&lines=Striver's+SDE+Sheet+%F0%9F%9A%80;191+Problems+%7C+Daily+DSA+Grind" alt="Title" />
+<!-- Animated banner: typing SVG as the full title banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=800&color=F7A81B&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%9A%80+Striver's+SDE+Sheet;191+Problems+%7C+Python+%7C+Daily+Grind" alt="Banner"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/Karthikeyancse-coder">
@@ -169,6 +166,6 @@ If this repository helps you in your DSA journey, consider giving it a ⭐ — i
 
 **Happy Coding! 🚀 Consistency beats intensity.**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=90&section=footer&text=Keep%20Grinding%20%F0%9F%94%A5&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
